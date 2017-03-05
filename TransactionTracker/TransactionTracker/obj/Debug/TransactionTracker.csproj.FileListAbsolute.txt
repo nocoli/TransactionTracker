@@ -7,3 +7,17 @@ c:\users\kyle8\onedrive\documents\visual studio 2015\Projects\TransactionTracker
 c:\users\kyle8\onedrive\documents\visual studio 2015\Projects\TransactionTracker\TransactionTracker\obj\Debug\TransactionTracker.csproj.GenerateResource.Cache
 c:\users\kyle8\onedrive\documents\visual studio 2015\Projects\TransactionTracker\TransactionTracker\obj\Debug\TransactionTracker.exe
 c:\users\kyle8\onedrive\documents\visual studio 2015\Projects\TransactionTracker\TransactionTracker\obj\Debug\TransactionTracker.pdb
+C:\Users\Nicholas\Documents\GitHub\Projects\Transaction Tracker\TransactionTracker\TransactionTracker\TransactionTracker\bin\Debug\TransactionTracker.exe.config
+C:\Users\Nicholas\Documents\GitHub\Projects\Transaction Tracker\TransactionTracker\TransactionTracker\TransactionTracker\obj\Debug\TransactionTracker.exe
+C:\Users\Nicholas\Documents\GitHub\Projects\Transaction Tracker\TransactionTracker\TransactionTracker\TransactionTracker\obj\Debug\TransactionTracker.pdb
+C:\Users\Nicholas\Documents\GitHub\Projects\Transaction Tracker\TransactionTracker\TransactionTracker\TransactionTracker\bin\Debug\Transactions.mdf
+C:\Users\Nicholas\Documents\GitHub\Projects\Transaction Tracker\TransactionTracker\TransactionTracker\TransactionTracker\bin\Debug\Transactions_log.ldf
+C:\Users\Nicholas\Documents\GitHub\Projects\Transaction Tracker\TransactionTracker\TransactionTracker\TransactionTracker\bin\Debug\TransactionTracker.exe
+C:\Users\Nicholas\Documents\GitHub\Projects\Transaction Tracker\TransactionTracker\TransactionTracker\TransactionTracker\bin\Debug\TransactionTracker.pdb
+C:\Users\Nicholas\Documents\GitHub\Projects\Transaction Tracker\TransactionTracker\TransactionTracker\TransactionTracker\obj\Debug\TransactionTracker.csprojResolveAssemblyReference.cache
+C:\Users\Nicholas\Documents\GitHub\Projects\Transaction Tracker\TransactionTracker\TransactionTracker\TransactionTracker\obj\Debug\TransactionTracker.Form1.resources
+C:\Users\Nicholas\Documents\GitHub\Projects\Transaction Tracker\TransactionTracker\TransactionTracker\TransactionTracker\obj\Debug\TransactionTracker.Properties.Resources.resources
+C:\Users\Nicholas\Documents\GitHub\Projects\Transaction Tracker\TransactionTracker\TransactionTracker\TransactionTracker\obj\Debug\TransactionTracker.csproj.GenerateResource.Cache
+C:\Users\Nicholas\Documents\GitHub\Projects\Transaction Tracker\TransactionTracker\TransactionTracker\TransactionTracker\obj\Debug\TransactionTracker.TransactionHistory.resources
+C:\Users\Nicholas\Documents\GitHub\Projects\Transaction Tracker\TransactionTracker\TransactionTracker\TransactionTracker\obj\Debug\TransactionTracker.Forms.PurchasesView.resources
+C:\Users\Nicholas\Documents\GitHub\Projects\Transaction Tracker\TransactionTracker\TransactionTracker\TransactionTracker\obj\Debug\TransactionTracker.Forms.SalesView.resources
