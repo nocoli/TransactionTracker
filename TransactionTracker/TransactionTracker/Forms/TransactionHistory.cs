@@ -54,6 +54,8 @@ namespace TransactionTracker
                 //listTransactions.ValueMember = "ID";
                 //listTransactions.DataSource = recentTransactionsTable;
             }
+
+
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)

@@ -31,6 +31,7 @@
             this.salesTable = new System.Windows.Forms.DataGridView();
             this.SalesHistoryLabel = new System.Windows.Forms.Label();
             this.BackButton = new System.Windows.Forms.Button();
+            this.saleTotalLabel = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.salesTable)).BeginInit();
             this.SuspendLayout();
             // 
@@ -62,11 +63,22 @@
             this.BackButton.UseVisualStyleBackColor = true;
             this.BackButton.Click += new System.EventHandler(this.BackButton_Click);
             // 
+            // saleTotalLabel
+            // 
+            this.saleTotalLabel.AutoSize = true;
+            this.saleTotalLabel.Location = new System.Drawing.Point(384, 37);
+            this.saleTotalLabel.Name = "saleTotalLabel";
+            this.saleTotalLabel.Size = new System.Drawing.Size(25, 13);
+            this.saleTotalLabel.TabIndex = 11;
+            this.saleTotalLabel.Text = "$$$";
+            this.saleTotalLabel.Click += new System.EventHandler(this.label1_Click);
+            // 
             // SalesView
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1003, 529);
+            this.Controls.Add(this.saleTotalLabel);
             this.Controls.Add(this.BackButton);
             this.Controls.Add(this.SalesHistoryLabel);
             this.Controls.Add(this.salesTable);
@@ -84,5 +96,6 @@
         private System.Windows.Forms.DataGridView salesTable;
         private System.Windows.Forms.Label SalesHistoryLabel;
         private System.Windows.Forms.Button BackButton;
+        private System.Windows.Forms.Label saleTotalLabel;
     }
 }
